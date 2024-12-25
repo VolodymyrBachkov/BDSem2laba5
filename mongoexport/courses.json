@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "676c581cb0a3ff383565f76e"
+  },
+  "description": "Learn Python from scratch",
+  "id": 1,
+  "name": "Python Programming",
+  "price": 199.99
+},
+{
+  "_id": {
+    "$oid": "676c581cb0a3ff383565f76f"
+  },
+  "description": "Introduction to Data Science",
+  "id": 2,
+  "name": "Data Science",
+  "price": 299.99
+},
+{
+  "_id": {
+    "$oid": "676c581cb0a3ff383565f770"
+  },
+  "description": "Master web technologies",
+  "id": 3,
+  "name": "Web Development",
+  "price": 249.99
+},
+{
+  "_id": {
+    "$oid": "676c581cb0a3ff383565f771"
+  },
+  "description": "Learn machine learning fundamentals",
+  "id": 4,
+  "name": "Machine Learning",
+  "price": 349.99
+}]

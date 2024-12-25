@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "676c583cb0a3ff383565f773"
+  },
+  "course_id": 1,
+  "enrollment_date": "2024-12-25 17:50:31.630041",
+  "id": 1,
+  "student_id": 1
+},
+{
+  "_id": {
+    "$oid": "676c583cb0a3ff383565f774"
+  },
+  "course_id": 1,
+  "enrollment_date": "2024-12-25 17:50:31.630041",
+  "id": 2,
+  "student_id": 2
+},
+{
+  "_id": {
+    "$oid": "676c583cb0a3ff383565f775"
+  },
+  "course_id": 2,
+  "enrollment_date": "2024-12-25 17:50:31.630041",
+  "id": 3,
+  "student_id": 3
+},
+{
+  "_id": {
+    "$oid": "676c583cb0a3ff383565f776"
+  },
+  "course_id": 2,
+  "enrollment_date": "2024-12-25 17:50:31.630041",
+  "id": 4,
+  "student_id": 4
+},
+{
+  "_id": {
+    "$oid": "676c583cb0a3ff383565f777"
+  },
+  "course_id": 3,
+  "enrollment_date": "2024-12-25 17:50:31.630041",
+  "id": 5,
+  "student_id": 5
+},
+{
+  "_id": {
+    "$oid": "676c583cb0a3ff383565f778"
+  },
+  "course_id": 4,
+  "enrollment_date": "2024-12-25 17:50:31.630041",
+  "id": 6,
+  "student_id": 6
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "676c5854b0a3ff383565f77a"
+  },
+  "bio": "Experienced Python instructor",
+  "email": "alice.brown@example.com",
+  "first_name": "Alice",
+  "id": 1,
+  "last_name": "Brown"
+},
+{
+  "_id": {
+    "$oid": "676c5854b0a3ff383565f77b"
+  },
+  "bio": "Expert in web development",
+  "email": "bob.taylor@example.com",
+  "first_name": "Bob",
+  "id": 2,
+  "last_name": "Taylor"
+},
+{
+  "_id": {
+    "$oid": "676c5854b0a3ff383565f77c"
+  },
+  "bio": "Data Science professional",
+  "email": "carol.evans@example.com",
+  "first_name": "Carol",
+  "id": 3,
+  "last_name": "Evans"
+},
+{
+  "_id": {
+    "$oid": "676c5854b0a3ff383565f77d"
+  },
+  "bio": "Machine Learning specialist",
+  "email": "diana.white@example.com",
+  "first_name": "Diana",
+  "id": 4,
+  "last_name": "White"
+}]
